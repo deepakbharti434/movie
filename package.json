@@ -28,5 +28,13 @@
   "devDependencies": {
     "concurrently": "^4.1.0",
     "nodemon": "^1.19.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakbharti434/movie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deepakbharti434/movie/issues"
+  },
+  "homepage": "https://github.com/deepakbharti434/movie#readme"
 }
